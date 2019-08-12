@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Teacher\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Teacher()
+comment2.params=
+comment2.target=void\ work()
+comment2.text=public\ Teacher(String\ name,double\ wage)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ super(name);\r\n\ \ \ \ \ \ \ \ courses\ \=\ new\ Course[7];\r\n\ \ \ \ \ \ \ \ this.wage\ \=\ wage;\r\n}
+comment3.params=wage
+comment3.target=double\ calculateEarning(double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=weight
+comment5.target=void\ pay(double)
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Array_Day2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Array_Day2\ here.\r\n\r\n\ @author\ jimschenchen\r\n\ @version\ 2017/11/14\r\n
+comment1.params=
+comment1.target=int[]\ q1()
+comment2.params=arr
+comment2.target=int[]\ q2(int[])
+comment3.params=arr
+comment3.target=boolean\ q3(int[])
+comment4.params=arr
+comment4.target=boolean\ reQ3(int[])
+comment5.params=arr\ n
+comment5.target=boolean\ q4(int[],\ int)
+comment6.params=outer\ inner
+comment6.target=boolean\ q5(int[],\ int[])
+numComments=7

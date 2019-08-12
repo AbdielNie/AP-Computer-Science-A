@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\r\n\ name\:\ AbdielNie\r\n\ version\:\ 1.0\r\n\ make\ four\ fraction\ method\ in\ add,\ sub,\ mult,\ divid\r\n
+comment1.params=n\ d
+comment1.target=Fraction(int,\ int)
+comment2.params=n\ d
+comment2.target=Fraction\ reduce(int,\ int)
+comment3.params=b
+comment3.target=void\ add(Fraction)
+comment3.text=\r\n\ addition\ method\r\n
+comment4.params=b
+comment4.target=void\ subtract(Fraction)
+comment4.text=\r\n\ substract\ method\r\n
+comment5.params=b
+comment5.target=void\ multiply(Fraction)
+comment5.text=\r\n\ multiply\ method\r\n
+comment6.params=b
+comment6.target=void\ divide(Fraction)
+comment6.text=\r\n\ divide\ method\r\n
+comment7.params=b
+comment7.target=void\ multiplyFraction(Fraction)
+comment7.text=\r\n\ multiplyFraction\ method\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ toString\ method\r\n
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BucketSort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ step
+comment2.target=int\ indexFor(int,\ int)
+comment2.text=\r\n\ @param\ a\ \u5F85\u6392\u5E8F\u6570\u7EC4\u5143\u7D20\r\n\ @param\ step\ \u6B65\u957F(\u6876\u7684\u5BBD\u5EA6/\u533A\u95F4),\u5177\u4F53\u957F\u5EA6\u53EF\u6839\u636E\u60C5\u51B5\u8BBE\u5B9A\r\n\ @return\ \u6876\u7684\u4F4D\u7F6E/\u7D22\u5F15\r\n
+comment3.params=arr
+comment3.target=void\ bucketSort(int[])
+comment4.params=bucket
+comment4.target=void\ insertSort(java.util.List)
+numComments=5

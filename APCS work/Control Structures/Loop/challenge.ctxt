@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=challenge
+comment0.text=\r\nchallengeQ\r\n
+comment1.params=
+comment1.target=void\ printAZ()
+comment2.params=num
+comment2.target=void\ printAZ2(int)
+comment3.params=
+comment3.target=void\ printAZ3()
+numComments=4

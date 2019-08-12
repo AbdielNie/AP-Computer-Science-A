@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SetPngTransparentColorGUI
+comment0.text=\r\n\ Replace\ pixels\ with\ full\ transparency\ with\ a\ certain\ color\ to\ fix\ issues\ with\ resampling\ images\r\n
+comment1.params=
+comment1.target=SetPngTransparentColorGUI()
+comment10.params=windowEvent
+comment10.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment11.params=file\ color
+comment11.target=void\ SetPngTransparentColor(java.io.File,\ java.awt.Color)
+comment2.params=mouseEvent
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=dropTargetDragEvent
+comment3.target=void\ dragEnter(java.awt.dnd.DropTargetDragEvent)
+comment4.params=dropTargetDragEvent
+comment4.target=void\ dragOver(java.awt.dnd.DropTargetDragEvent)
+comment5.params=dropTargetDragEvent
+comment5.target=void\ dropActionChanged(java.awt.dnd.DropTargetDragEvent)
+comment6.params=dropTargetEvent
+comment6.target=void\ dragExit(java.awt.dnd.DropTargetEvent)
+comment7.params=evt
+comment7.target=void\ drop(java.awt.dnd.DropTargetDropEvent)
+comment8.params=files
+comment8.target=void\ processFiles(java.util.List)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=12

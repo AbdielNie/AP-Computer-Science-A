@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Assignment_Part0
+comment0.text=\r\n\ name\:\ AbdielNnie\r\n\ date\:\ 11/17/2017\r\n\ description\:\ 7\ different\ way\ to\ shuffle\r\n
+comment1.params=input\ output\ N
+comment1.target=void\ perfect_riffle(int[],\ int[],\ int)
+comment1.text=\r\n\ shuffles\:\r\n\ 1.perfect\ riffle/faro\ shuffle\r\n\ 2.imperfect\ Riffle/Faro\ shuffle\r\n\ 3.smoosh\ shuffle\r\n\ 4.monge\ shuffle\r\n\ 5.milk\ shuffle\r\n\ 6.overhand\ shuffle\r\n\ 7.Hindu\ shuffle\r\n
+comment2.params=ar
+comment2.target=void\ shuffleArray(int[])
+comment2.text=\ public\ static\ void\ main(String[]\ args)\ \r\n\ \ \ \ {\r\n\ \ \ \ int\ N\ \=\ 52;\r\n\ \ \ \ String[]\ in\ \=\ new\ String[N];\r\n\ \ \ \ String[]\ out\ \=\ new\ String[N];\r\n\ \ \ \ for\ (int\ i\ \=\ 0;\ i\ <\ N;\ ++i)\r\n\ \ \ \ in[i]\ \=\ Integer.toString(i);\r\n\ \ \ \ perfect_riffle(in,\ out,\ N);\r\n\ \ \ \ System.out.println(Arrays.asList(out));\r\n\ \ \ \ }\r\n
+numComments=3

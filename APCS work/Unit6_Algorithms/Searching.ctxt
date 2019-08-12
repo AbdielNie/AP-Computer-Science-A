@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Searching
+comment1.params=nums\ value
+comment1.target=int\ linearSearch(int[],\ int)
+comment2.params=nums\ value
+comment2.target=int\ binarySearch(int[],\ int)
+comment3.params=nums\ start\ end\ value
+comment3.target=int\ binarySearch(int[],\ int,\ int,\ int)
+numComments=4

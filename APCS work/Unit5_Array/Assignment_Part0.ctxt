@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Assignment_Part0
+comment0.text=\r\n\ name\:\ AbdielNnie\r\n\ date\:\ 11/17/2017\r\n\ description\:\ 7\ different\ way\ to\ shuffle\r\n
+comment1.params=input\ output\ N
+comment1.target=void\ perfect_riffle(int[],\ int[],\ int)
+comment1.text=\r\n\ \ \ \ public\ static\ String\ perfect_riffle_faro_shuffle()\r\n\ \ \ \ {\r\n\ \ \ \ String\ pockercard;\r\n\ \ \ \ }\r\n
+numComments=2

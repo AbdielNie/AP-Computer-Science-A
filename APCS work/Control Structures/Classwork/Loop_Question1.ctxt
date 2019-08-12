@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Loop_Question1
+comment0.text=\r\n\ Name\:\ AbdielNie\r\n\ decription\:\ Write\ a\ program\ that\ plays\ an\ incredibly\ stupid\r\n\ number-guessing\ game.\ The\ user\ will\ get\ one\ try\ to\ guess\ the\ \r\n\ secret\ number.\ Tell\ them\ if\ they\ got\ it\ right\ or\ wrong,\ and\r\n\ if\ they\ got\ it\ wrong,\ display\ what\ the\ secret\ number\ was.\r\n\ You\ must\ store\ the\ secret\ number\ in\ a\ variable,\ and\ use\ that\ \r\n\ variable\ throughout.\ The\ secret\ number\ itself\ must\ not\ \r\n\ appear\ in\ the\ program\ at\ all,\ except\ in\ the\ one\ line\r\n\ where\ you\ store\ it\ into\ a\ variable.\r\n\ b)\ Modify\ your\ number-guessing\ game\ to\ actually\ \r\n\ pick\ a\ random\ number\ from\ 1\ to\ 10\ and\ have\ the\ user\ try\ \r\n\ to\ guess\ that.\ Tell\ them\ if\ they\ get\ it\ right\ or\ wrong,\ \r\n\ and\ if\ they\ get\ it\ wrong,\ show\ them\ what\ the\ random\ number\ was.\r\n\ They\ will\ still\ only\ get\ one\ try.\r\n\ c)\ Modify\ the\ game\ so\ that\ they\ can\ guess\ until\ they\ get\ it\ right.\ \r\n\ That\ means\ it\ will\ keep\ looping\ as\ long\ as\ the\ guess\ is\ different\r\n\ from\ the\ secret\ number.\ \r\n\ Use\ a\ while\ loop.\r\n
+comment1.params=num
+comment1.target=void\ question1(int)
+numComments=2

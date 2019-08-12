@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=demoLoop
+comment0.text=\r\n\ name\:AbdielNie\r\n\ description\:\ demo\ of\ loop\r\n
+comment1.params=
+comment1.target=void\ whileLoop()
+comment2.params=num
+comment2.target=void\ whileLoop2(int)
+comment3.params=
+comment3.target=void\ forLoop()
+comment4.params=num
+comment4.target=void\ forLoop2(int)
+numComments=5

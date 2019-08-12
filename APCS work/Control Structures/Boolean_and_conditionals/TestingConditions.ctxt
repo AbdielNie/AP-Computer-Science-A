@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestingConditions
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TestingConditions\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=num
+comment1.target=void\ greaterThanFive(int)
+comment2.params=age
+comment2.target=java.lang.String\ determineYouth(int)
+comment2.text=\r\n\ determineYouth(int\ age)\r\n\ tells\ whether\ person\ is\ young\ or\ old\r\n\ \r\n\ Input\:age-how\ olde\ the\ person\ is\r\n\ Output\:String\ that\ says\ that\ the\ person\ is\ young\ or\ old\r\n
+comment3.params=mark
+comment3.target=char\ determineGrade(int)
+comment3.text=\r\n\ determaineGrade(int\ mark)\r\n\ tells\ the\ letter\ grade\ of\ a\ mark\r\n\ \r\n\ Input\:\ mark\ -\ percentage\ grade\r\n\ Output\ \:\ char\ letter\ grade\r\n
+numComments=4

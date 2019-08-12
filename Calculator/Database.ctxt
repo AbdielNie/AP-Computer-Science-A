@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=
+comment1.target=Database()
+comment1.text=\r\n\ @name\:\ Database\r\n\ @return\:\ \r\n\ @description\:\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getContent()
+comment2.text=\r\n\ @name\:\ getContent\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment3.params=Content
+comment3.target=void\ setContent(java.lang.String)
+comment3.text=\r\n\ @name\:\ setContent\r\n\ @param\:\ String\ Content\r\n\ @return\:\ void\r\n\ @description\:\ \r\n
+comment4.params=Content
+comment4.target=void\ addContent(java.lang.String)
+comment4.text=\r\n\ @name\:\ addContent\r\n\ @param\:\ String\ Content\r\n\ @return\:\ void\r\n\ @description\:\ \r\n
+comment5.params=Content
+comment5.target=void\ setAdd(java.lang.String)
+comment5.text=\r\n\ @name\:\ setAdd\r\n\ @param\:\ String\ Content\r\n\ @return\:\ void\r\n\ @description\:\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getAdd()
+comment6.text=\r\n\ @name\:\ getAdd\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment7.params=str
+comment7.target=void\ addHistory(java.lang.String)
+comment7.text=\r\n\ @name\:\ addHistory\r\n\ @param\:\ String\ str\r\n\ @return\:\ void\r\n\ @description\:\ \r\n
+comment8.params=
+comment8.target=java.lang.String\ showHistory()
+comment8.text=\r\n\ @name\:\ showHistory\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+numComments=9

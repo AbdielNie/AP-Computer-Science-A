@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Func
+comment0.text=\r\n\r\n\ @author\ jimschenchen\r\n
+comment1.params=str
+comment1.target=java.lang.String\ squareRoot(java.lang.String)
+comment1.text=\r\n\ @name\:\ squareRoot\r\n\ @param\:\ String\ str\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment2.params=str
+comment2.target=java.lang.String\ mutiplicityDivision(java.lang.String)
+comment2.text=\r\n\ @name\:\ mutiplicityDivision\r\n\ @param\:\ String\ str\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment3.params=str
+comment3.target=java.lang.String\ additionSubtraction(java.lang.String)
+comment3.text=\r\n\ @name\:\ additionSubtraction\r\n\ @param\:\ String\ str\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+numComments=4

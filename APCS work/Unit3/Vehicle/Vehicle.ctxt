@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ name\:\ AbdielNie\r\n\ date\:\ 09/28/2017\r\n\ discription\:\ simple\ vehicle\r\n
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=v\ d\ l\ c
+comment2.target=Vehicle(double,\ double,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ accelerate()
+comment4.params=
+comment4.target=void\ deccelerate()
+comment5.params=
+comment5.target=void\ turnLeft()
+comment6.params=
+comment6.target=void\ turnRight()
+comment7.params=c
+comment7.target=void\ setpeopleNumber(int)
+comment8.params=newlicense
+comment8.target=void\ changeLicense(java.lang.String)
+numComments=9

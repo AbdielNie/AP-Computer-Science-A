@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FahrenheitToCelcius
+comment0.text=\r\n\ Name\:\ AbdielNie\r\n\ version\:\ 1.0\r\n\ desription\:\ the\ program\ of\ conversion\ fahrenheit\ to\ celcius\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=Card\ peek()
+comment2.text=\r\n\ Method\:\ peek\r\n\ description\:look\ at\ the\ top\ card\ of\ the\ deck\r\n\ return\ the\ card\ at\ the\ top\ of\ the\ deck\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\:\ toString\r\n\ description\ \:\ shows\ each\ card,\ separated\ by\ commas\r\n\ return\ the\ current\ cards\r\n
+numComments=4

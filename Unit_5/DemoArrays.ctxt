@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DemoArrays
+comment1.params=
+comment1.target=void\ demoStringArray()
+comment2.params=intArray
+comment2.target=boolean\ q(int[])
+comment3.params=
+comment3.target=void\ review()
+comment4.params=
+comment4.target=void\ try1()
+comment5.params=o1\ o2
+comment5.target=int\ compare(java.lang.Integer,\ java.lang.Integer)
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ClearImageHelper
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sfile\ destDir
+comment2.target=void\ cleanImage(java.io.File,\ java.lang.String)
+comment2.text=\ \r\n\ \ \r\n\ @param\ sfile\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \uFFFD?\u8981\u53BB\u566A\u7684\u56FE\u50CF\ \r\n\ @param\ destDir\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \u53BB\u566A\u540E\u7684\u56FE\u50CF\u4FDD\u5B58\u5730\u5740\ \r\n\ @throws\ IOException\ \r\n
+comment3.params=colorInt
+comment3.target=boolean\ isBlack(int)
+comment4.params=colorInt
+comment4.target=boolean\ isWhite(int)
+comment5.params=colorInt
+comment5.target=int\ isBlackOrWhite(int)
+comment6.params=colorInt
+comment6.target=int\ getColorBright(int)
+comment7.params=gray\ w\ h
+comment7.target=int\ ostu(int[][],\ int,\ int)
+numComments=8

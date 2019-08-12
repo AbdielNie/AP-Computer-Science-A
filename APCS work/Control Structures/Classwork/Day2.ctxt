@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Day2
+comment0.text=\r\n\ name\:AbdielNie\r\n\ date\:\ 10/18/2017\r\n\ description\:\ The\ random\ homework\r\n
+comment1.params=
+comment1.target=java.lang.String\ randomMonth()
+comment1.text=\r\n\ Write\ a\ method\ that\ randomly\ generates\ an\ integer\ \r\n\ between\ 1\ and\ 12\ and\ \r\n\ displays\ the\ English\ month\ name\ January,\ February,\ \r\n\ etc\u2026\ for\ the\ number\ 1,\ 2,\ etc.\u0000\r\n
+numComments=2

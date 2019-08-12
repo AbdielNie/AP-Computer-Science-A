@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=nestedLoop
+comment0.text=\r\n\ Using\ a\ loop,print\ out\ 0-9\r\n\ 0\r\n\ 01\r\n\ 012\r\n\ 0123\r\n\ 01234\r\n
+comment1.params=
+comment1.target=void\ challenge()
+numComments=2

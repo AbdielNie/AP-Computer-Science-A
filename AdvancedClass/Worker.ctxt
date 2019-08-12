@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Worker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Worker\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ wage
+comment1.target=Worker(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ responsibilities()
+comment3.params=time
+comment3.target=double\ calculateEarning(double)
+comment4.params=weightOfFood
+comment4.target=void\ pay(double)
+comment5.params=wage
+comment5.target=void\ setWge(double)
+comment6.params=
+comment6.target=double\ getWage()
+numComments=7

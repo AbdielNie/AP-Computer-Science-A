@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FileOperate
+comment1.params=add
+comment1.target=java.lang.String\ getFile(java.lang.String)
+comment1.text=\r\n\ @name\:\ getFile\r\n\ @param\:\ String\ add\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment2.params=add
+comment2.target=java.lang.String\ operateFile(java.lang.String)
+comment2.text=\r\n\ @name\:\ operateFile\r\n\ @param\:\ String\ add\r\n\ @return\:\ String\r\n\ @description\:\ \r\n
+comment3.params=add\ content
+comment3.target=boolean\ saveFile(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ @name\:\ saveFile\r\n\ @param\:\ String\ add,\ String\ content\r\n\ @return\:\ boolean\r\n\ @description\:\ \r\n
+numComments=4

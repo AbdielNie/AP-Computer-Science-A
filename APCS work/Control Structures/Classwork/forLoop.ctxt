@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=forLoop
+comment1.params=n
+comment1.target=java.lang.String\ Num(java.lang.String)
+comment1.text=\r\n\ Given\ a\ number,\ return\ that\ many\ \u201C*\u201D\ as\ a\ string.\u0000\r\n
+numComments=2

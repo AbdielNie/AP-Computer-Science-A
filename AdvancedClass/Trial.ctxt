@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Trial
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ forEach(java.util.ArrayList)
+numComments=3

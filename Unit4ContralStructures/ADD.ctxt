@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ADD
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ADD\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=str
+comment1.target=int\ add(java.lang.String)
+numComments=2

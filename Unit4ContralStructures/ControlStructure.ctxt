@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ControlStructure
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ControlStructure\ here.\r\n\r\n\ @author\ jimschenchen\r\n\ @version\ 2017/10/25\r\n
+comment1.params=
+comment1.target=void\ demoFor()
+comment2.params=num
+comment2.target=void\ demoFor2(int)
+comment3.params=num
+comment3.target=void\ demoWhile(int)
+comment4.params=
+comment4.target=void\ crash()
+comment5.params=num
+comment5.target=void\ demoWhile2(int)
+numComments=6

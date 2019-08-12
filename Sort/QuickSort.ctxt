@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment1.params=arr\ left\ right
+comment1.target=int\ partition(int[],\ int,\ int)
+comment1.text=\r\n\r\n\ \ \ \ \ \ It\ helps\ us\ to\ finish\ the\ part\ that\ put\ small\ one\ on\ the\ right\ and\ put\ large\ one\ on\ the\ left\ depend\ on\ pivot\ \ \ \ \ \ \ \r\n\r\n
+comment2.params=arr\ left\ right
+comment2.target=void\ quicksort(int[],\ int,\ int)
+comment2.text=\r\n\r\n\ \ \ \ \ \ \ It\ helps\ us\ to\ do\ the\ partition\ and\ do\ the\ partition\ for\ another\ two\ part.\r\n\r\n
+comment3.params=arr
+comment3.target=int[]\ main(int[])
+numComments=4

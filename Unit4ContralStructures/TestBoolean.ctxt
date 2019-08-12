@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestBoolean
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TestBoolean\ here.\r\n\r\n\ @author\ JimLi\r\n\ @version\ 2017/10/17\r\n
+comment1.params=
+comment1.target=void\ testBoolean2()
+comment2.params=num
+comment2.target=void\ graterThanFive(int)
+comment3.params=age
+comment3.target=java.lang.String\ determineYouth(int)
+comment4.params=mark
+comment4.target=char\ determineGrade(int)
+numComments=5

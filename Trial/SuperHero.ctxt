@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SuperHero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SuperHero\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SuperHero()
+comment2.params=n\ g\ a\ t\ s\ co\ cl
+comment2.target=SuperHero(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=java.lang.String\ getSuperpower()
+comment6.params=
+comment6.target=void\ changeAge()
+comment7.params=newColor
+comment7.target=void\ changeColor(java.lang.String)
+numComments=8

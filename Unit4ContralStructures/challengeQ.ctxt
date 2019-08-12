@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=challengeQ
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ challengeQ\ here.\r\n\r\n\ @author\ jimschenchen\r\n\ @version\ 2017/10/26\r\n
+comment1.params=
+comment1.target=void\ printAZ()
+comment2.params=a
+comment2.target=void\ printAZ2(int)
+comment3.params=
+comment3.target=void\ printAZ3()
+comment4.params=
+comment4.target=void\ pirntAZ4()
+comment5.params=
+comment5.target=void\ sao()
+comment6.params=
+comment6.target=void\ number()
+numComments=7

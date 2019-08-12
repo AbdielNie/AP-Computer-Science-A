@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ClassworkDay2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ClassworkDay2\ here.\r\n\r\n\ @jimschenchen\r\n\ @2017/10/17\r\n
+comment1.params=
+comment1.target=java.lang.String\ randomMonth()
+comment2.params=str
+comment2.target=java.lang.String\ capitalizeName(java.lang.String)
+comment3.params=digit
+comment3.target=java.lang.String\ getTenISBN\u0000(java.lang.String)
+comment4.params=str
+comment4.target=int\ indexTest(java.lang.String)
+numComments=5

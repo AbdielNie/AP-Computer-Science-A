@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Array_Day1
+comment1.params=a
+comment1.target=int\ q1(int[])
+comment2.params=str
+comment2.target=java.lang.String\ q2(java.lang.String[])
+comment3.params=str
+comment3.target=char[]\ q3(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ q4()
+comment5.params=
+comment5.target=java.lang.String\ q5()
+numComments=6

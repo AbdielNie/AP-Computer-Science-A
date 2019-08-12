@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Liquid
+comment0.text=\r\n\ Name\:\ Lee\r\n\ Version\:\ 1.0\r\n\ Description\:\ Class\ for\ liquids\r\n
+comment1.params=type
+comment1.target=Liquid(java.lang.String)
+comment2.params=type
+comment2.target=void\ setType(java.lang.String)
+comment2.text=\r\n\ Method\:\ setType\r\n\ Input\:\ String\ type\ -\ type\ of\ liquid\ to\ be\ stored\r\n\ Output\:\ none\r\n\ Description\:\ changes\ the\ type\ of\ the\ liquid\ in\ the\ bottle\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

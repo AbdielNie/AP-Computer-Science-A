@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bottle
+comment0.text=\r\n\ Name\:\ Lee\r\n\ Version\:\ 1.0\r\n\ Description\:\ Water\ Bottle\ Class\r\n
+comment1.params=inVolume\ inContent
+comment1.target=Bottle(int,\ Liquid)
+comment2.params=
+comment2.target=void\ open()
+comment3.params=sipVolume
+comment3.target=void\ drink(int)
+comment4.params=newContent
+comment4.target=void\ exchangeContent(Liquid)
+comment5.params=test
+comment5.target=boolean\ isValidBottle(Bottle)
+comment6.params=
+comment6.target=boolean\ getIsOpen()
+comment7.params=
+comment7.target=int\ getVolume()
+comment8.params=
+comment8.target=Liquid\ getContent1()
+comment9.params=
+comment9.target=java.lang.String\ getContent2()
+numComments=10

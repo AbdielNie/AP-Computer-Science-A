@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=simplecircle
+comment0.text=\r\n\ name\:AbdielNie\r\n\ date\:09/27/2017\r\n\ description\:\ A\ simple\ circle\ \r\n
+comment1.params=
+comment1.target=simplecircle()
+comment2.params=r
+comment2.target=simplecircle(double)
+comment3.params=
+comment3.target=double\ getradius()
+comment4.params=
+comment4.target=double\ getarea()
+comment5.params=
+comment5.target=double\ getperimeter()
+comment6.params=r
+comment6.target=void\ setradius(double)
+numComments=7
